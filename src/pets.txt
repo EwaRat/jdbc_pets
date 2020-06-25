@@ -1,0 +1,6 @@
+insert Kajtek 3 Adam 5 TRUE CHIUHUAHUA
+insert Jogi 5 Leszek 8 FALSE JAMNIK
+insert Bruno 10 Waldek 30 TRUE LABRADOR
+insert Alvin 15 Ania 6 FALSE MOPS
+insert Lena 2 Kasia 25 TRUE GOLDEN_RETRIEVER
+insert Misiu 14 Micha³ 20 TRUE HUSKY
